@@ -9,5 +9,6 @@ short README explaining what it does and how to use it.
 | Snippet | Description |
 | ------- | ----------- |
 | [store-credit-button-reposition](store-credit-button-reposition/) | Repositions the WooCommerce "Apply Store Credit" button on the cart page (below coupons on desktop, top of totals on mobile) with pure CSS. |
+| [trash-past-workshops-cron](trash-past-workshops-cron/) | Hourly WP-Cron job that trashes expired `workshops` CPT entries after 5pm site time on the event date. |
 
 *More snippets being added — check back.*
